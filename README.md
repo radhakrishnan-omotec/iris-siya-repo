@@ -1,2 +1,2 @@
 # iris-siya-repo
-Enhanced Methodology for Python Implementation Using Ethereum Ledger
+IRIS Methodology for Python Implementation Using Ethereum Ledger
